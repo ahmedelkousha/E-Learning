@@ -1,0 +1,13 @@
+.sucess .content .item span:first-of-type{
+    color: transparent;
+background: linear-gradient(#136cb5, #49bbbd);
+background-clip: text;
+-webkit-background-clip: text;
+
+}
+.sucess .content .item span:last-of-type, .sucess .title h2{
+    color: #010514;
+}
+.sucess{
+   padding: 50px 50px;
+}
