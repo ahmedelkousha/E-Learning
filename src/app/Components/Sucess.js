@@ -14,7 +14,7 @@ export default function Sucess() {
               ornare tristique vel nisl orci.{" "}
             </p>
           </div>
-          <div className="content flex flex-wrap md:flex-row gap-14 lg:gap-52 md:gap-24 text-center my-14 md:flex-wrap justify-center">
+          <div className="content flex flex-wrap md:flex-row gap-14 lg:gap-[190px] md:gap-24 text-center my-14 md:flex-wrap justify-center">
             <div className="basis-[40%] md:basis-0 item flex flex-col gap-2">
               <span className=" text-3xl">15K+</span>
               <span className="text-lg ">Students</span>
